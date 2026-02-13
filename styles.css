@@ -13,6 +13,10 @@
   box-sizing: border-box;
 }
 
+p {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: smaller;
+}
 body, html {
   height: 100%;
   width: 100%;
